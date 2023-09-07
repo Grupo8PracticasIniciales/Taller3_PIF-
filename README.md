@@ -17,13 +17,13 @@
 | Yeinny Melissa       | Catalán de León       | 202004725  |
 # ____________________________________________________________
 ## MANUAL 
-### En este documento, encontrarás valiosa información y consejos para mantener tu laptop en óptimas condiciones y garantizar su rendimiento y durabilidad a lo largo del tiempo.
-- :file_folder:[Manual](Manual_Informe1_Grupo8.pdf)  
+### En este documento, encontrarás más información acerca de Docker y sus derivables.
+- :file_folder:[Manual](Manual_Informe3_Grupo8.pdf)  
 # _____________________________________________________________
 ## Video 
-### En el siguiente enlace podrá ver como se realizó el mantenimiento de la computadora.
+### En el siguiente enlace podrá ver como se realizó diferentes aspectos acerca de DockerFile y DockerHub
 - :file_folder:[Video](https://youtu.be/BNlGCyZq4fg)
 _______________________________________________________________
 ## Pagina Web 
-### En el siguiente enlace se encuentra nuestro sitio web, tendrán acceso a un área de descargas exclusiva donde podrán obtener el manual completo y el tríptico de mantenimiento en formato PDF. Estos recursos están diseñados para ser descargados fácilmente y se convertirán en una guía indispensable para el cuidado de sus preciadas computadoras.
+### En el siguiente enlace se encuentra nuestro sitio web, donde tendrán acceso a un área de descargas exclusiva donde podrán obtener el manual completo y el video sobre Docker.
 - :file_folder:[Página Web](https://3942784100101.wixsite.com/taller-2)
